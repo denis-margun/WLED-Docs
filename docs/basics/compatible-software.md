@@ -16,7 +16,7 @@ Controllers use the WLED API to change the current light settings.
 
 | Name | Description |
 |---|---|
-[Ambient PC Light]([https://github.com/w00000dy/WLED-GUI](https://github.com/denis-margun/ambient-pc-light)) | Cross-platform desktop app (Windows, macOS, Linux) to discover and control all WLED devices on your network: mDNS + subnet scan, power and brightness, built-in WLED UI, live state via WebSocket, tray app and on/off sync with PC.
+[Ambient PC Light](https://github.com/denis-margun/ambient-pc-light) | Cross-platform desktop app (Windows, macOS, Linux) to discover and control all WLED devices on your network: mDNS + subnet scan, power and brightness, built-in WLED UI, live state via WebSocket, tray app and on/off sync with PC.
 [Home Assistant](https://www.home-assistant.io/integrations/wled/) | Versatile and feature rich home automation system. Out-of-the-box WLED integration with automatic discovery.
 [Homey pro with the D.A.L.O.R App](https://homey.app/en-us/app/com.sdn.neopixel-on-rest/D.A.L.O.R/) | Home automation system, WLED integration via the D.A.L.O.R. app  with automatic discovery.
 [ioBroker adapter](https://github.com/iobroker-community-adapters/ioBroker.wled) | Versatile and feature rich home automation system. Out-of-the-box WLED integration with automatic discovery.
